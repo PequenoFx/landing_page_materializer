@@ -4,8 +4,8 @@ Landing page como foco principal em venda de assinatura ou planos
 
 ## 🚀 Landing Page
 
-<img src="assents/1.png"/>
-<img src="assents/127.0.0.1_5500_index.html.png"/>
+<img src="assents/12.png"/>
+<img src="assents/1"/>
 
 
 
