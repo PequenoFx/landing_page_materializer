@@ -1,4 +1,4 @@
-# Landing Page Planos
+# Landing Page como Materializer Framework
 
 Landing page como foco principal em venda de assinatura ou planos
 
