@@ -25,7 +25,7 @@ Landing page como foco principal em venda de assinatura ou planos
 ## 🎁 Considerações finais
 
 * aperfeiçoando minhas skills usando o framework materializer 
-* Aprendi muito com esse projeto, sempre buscando evolução cada dia mais 📢
+* Aprendi muito com esse projeto, sempre buscando evolução cada dia mais!!📢
 
 
 ---
